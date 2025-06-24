@@ -1,2 +1,2 @@
-# Bilgisayarl-G-r-
+# Bilgisayarl-Görü
 Dönem Sonu Uygulaması
